@@ -1,0 +1,7 @@
+send("C:\Users\Archana K M\Desktop\My Resumes\Archana Gowda Resume.pdf")
+sleep(500)
+send("{TAB}")
+sleep(500)
+send("{TAB}")
+sleep(500)
+send("{ENTER}")

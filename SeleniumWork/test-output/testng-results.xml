@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-19T12:07:14 IST" name="Default suite" finished-at="2023-12-19T12:07:42 IST" duration-ms="27772">
+    <groups>
+    </groups>
+    <test started-at="2023-12-19T12:07:14 IST" name="Default test" finished-at="2023-12-19T12:07:42 IST" duration-ms="27772">
+      <class name="DataProvider.learningTwoDimensionalDataProvider">
+        <test-method signature="register([Ljava.lang.String;)[pri:0, instance:DataProvider.learningTwoDimensionalDataProvider@44a7bfbc]" started-at="2023-12-19T12:07:14 IST" name="register" data-provider="registerationDetails" finished-at="2023-12-19T12:07:22 IST" duration-ms="8089" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@4b960b5b]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register -->
+        <test-method signature="register([Ljava.lang.String;)[pri:0, instance:DataProvider.learningTwoDimensionalDataProvider@44a7bfbc]" started-at="2023-12-19T12:07:22 IST" name="register" data-provider="registerationDetails" finished-at="2023-12-19T12:07:31 IST" duration-ms="8913" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@1b13467c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register -->
+        <test-method signature="register([Ljava.lang.String;)[pri:0, instance:DataProvider.learningTwoDimensionalDataProvider@44a7bfbc]" started-at="2023-12-19T12:07:31 IST" name="register" data-provider="registerationDetails" finished-at="2023-12-19T12:07:42 IST" duration-ms="10248" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@7bd96822]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register -->
+      </class> <!-- DataProvider.learningTwoDimensionalDataProvider -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
